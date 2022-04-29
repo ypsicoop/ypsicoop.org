@@ -20,4 +20,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+
+  return {
+    passthroughFileCopy: true
+  };
 };
