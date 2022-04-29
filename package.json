@@ -1,0 +1,15 @@
+{
+  "name": "ypsicoop.org",
+  "version": "1.0.0",
+  "description": "The Ypsilanti Cooperative Preschool website.",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "Jon Earley <me@yelrae.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ypsilanti Cooperative Preschool</title>
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="The Ypsilanti Cooperative Preschool (YCP) has been offering a quality preschool program that involves family since 1946." />
+
+    {% set css %}
+      {% include "global.css" %}}
+    {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
+  </head>
+  <body>
+    <div class="viewport-margins">
+      <header class="site-header">
+         <a href="/" class="logo">
+           <img alt="Ypsilanti Cooperative Preschool, established 1946" src="https://cdn.glitch.global/00a4c75e-efc4-4df8-902c-1320d63fb524/logo.png?v=1650920477237">
+         </a>
+
+        <nav>
+          <a href="/">Home</a>
+          <a href="/philosophy">Philosophy</a>
+          <a href="/tuition">Tuition</a>
+          <a href="/jobs">Jobs</a>
+          <a href="/frequently-asked-questions"><abbr title="Frequently asked Questions">FAQ</abbr></a>
+          <a href="https://docs.google.com/forms/d/1URoJerAHiThIL6UPoQ-Yc0Cji7HRww0nunxDDx2I3J8/viewform?edit_requested=true">Enroll</a>
+        </nav>
+      </header>
+    </div>
+    <main>
+      <div class="viewport-margins">
+        {{ content | safe }}
+      </div>
+    </main>
+    <article class="testimonials">
+      <h2>
+        Testimonials
+      </h2>
+
+      <figure>
+        <blockquote>
+          <p>
+            We love YCP! The cooperative model fosters a sense of community and we enjoyed being a part of the school. Ms. Mieke is warm and caring; she demonstrates great pa2ence and takes the time to know each child individually. Our daughter always looked forward to going to class and her unique needs were consistently met. The Montessori curriculum allows each child to work at their own level and pace. The school atmosphere is bright and cheerful. We recommend YCP to any family looking for a school they can really be involved in!
+          </p>
+        </blockquote>
+        <figcaption>The Burpee Family</figcaption>
+      </figure>
+      
+      <figure>
+        <blockquote>
+          <p>
+            The Montessori format of the class really drew us to the school. It gives kids a chance to be themselves and explore, while introducing them to structure and the classroom environment. The cooperative element was also really important to us. I loved being involved in the classroom, watching them learn, grow and play, seeing them make their first friends. Having the opportunity to take the first few steps of your child’s educational journey with them is a beautiful thing. We have made and are still making many cherished memories at YCP.
+          </p>
+        </blockquote>
+        <figcaption>Dannielle Murphy</figcaption>
+      </figure>
+    </article>
+    <footer>      
+      <div class="viewport-margins grid-layout">
+        <section>
+          <h2>
+            Address
+          </h2>
+
+          <p>
+            <a href="https://www.google.com/maps/search/?api=1&query=Ypsilanti+Cooperative+Preschool&query_place_id=ChIJi1wPyVmoPIgRUu6dOrEa3hc" class="light address-link">
+              Ypsilanti Cooperative Preschool<br>
+              111 S Wallace Blvd, Ypsilanti, MI 48197
+            </a>
+          </p>
+
+          <div role="presentation" class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d353.220071470947!2d-83.63189095201759!3d42.23654742238408!2m3!1f0!2f39.32687666296904!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x883ca859c90f5c8b%3A0x17de1ab13a9dee52!2sYpsilanti%20Cooperative%20Preschool!5e1!3m2!1sen!2sus!4v1645207065339!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div>
+        </section>
+        <section>
+          <h2>
+            Contact
+          </h2>
+          
+          <p>
+            <a href="tel:734-485-8775" class="light">734-485-8775</a>
+          </p>
+          <p>
+            <a href="mailto:membership@ypsicoop.org" class="light">membership@ypsicoop.org</a>
+          </p>
+          <p>
+            <a href="mailto:president@ypsicoop.org" class="light">president@ypsicoop.org</a>
+          </p>
+        </section>
+      </div>
+    </footer>
+  </body>
+</html>
