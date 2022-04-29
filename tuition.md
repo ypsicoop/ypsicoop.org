@@ -4,9 +4,7 @@ layout: page.njk
 
 # Tuition
 
-<div>
-{% image "./images/ycp-tuition.jpeg", "A student sitting on the floor sorts through assorted tiles to match them to an print out that outlines those shapes to match." %}
-</div>
+<img class="page-image" src="/images/tuition.jpeg" alt="A student sitting on the floor sorts through assorted tiles to match them to an print out that outlines those shapes to match.">
 
 ## Initial costs
 

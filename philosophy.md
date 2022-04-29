@@ -6,9 +6,7 @@ layout: page.njk
 
 ## Our program and classes
 
-<div>
-{% image "./images/ycp-philosophy.jpeg", "Two students sitting at the same table practice writing with pencils." %}
-</div>
+<img class="page-image" src="/images/philosophy.jpeg" alt="Two students sitting at the same table practice writing with pencils.">
 
 Our program is designed as an open play environment whereby children learn and develop as a result of carefully selected activities and materials, including field trips. Our main goal is to have children develop an adequate self-concept in a school setting. We feel that what children are able to learn depends largely on their feelings about themselves.
 

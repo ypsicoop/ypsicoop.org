@@ -4,9 +4,7 @@ layout: page.njk
 
 # Jobs
 
-<div>
-{% image "./images/ycp-jobs.jpeg", "A student is focusing on holding a bolt and nut with curiosity to learn how it works." %}
-</div>
+<img class="page-image" src="/images/jobs.jpeg" alt="A student is focusing on holding a bolt and nut with curiosity to learn how it works.">
 
 To keep tuition costs low, it is imperative that each YCP member is involved in the various responsibilities of running the preschool.
 

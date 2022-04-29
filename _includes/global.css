@@ -106,7 +106,7 @@ a:hover {
   filter: brightness(10);
 }
 
-picture img {
+.page-image {
   width: 100%;
   max-width: 21rem;
   box-shadow: 1rem 1rem 0 0 var(--color-green);
@@ -114,7 +114,7 @@ picture img {
 }
 
 @media (min-width: 920px) {
-  picture img {
+  .page-image {
     float: right;
     margin-left: 2rem;
     margin-bottom: 2rem;

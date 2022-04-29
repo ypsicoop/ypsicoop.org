@@ -4,9 +4,7 @@ layout: page.njk
 
 # Frequently asked questions
 
-<div>
-{% image "./images/ycp-faq.jpeg", "An adult and a student sitting together at a table in the classroom working through an activity in a notebook." %}
-</div>
+<img class="page-image" src="/images/faq.jpeg" alt="An adult and a student sitting together at a table in the classroom working through an activity in a notebook.">
 
 ## What is a Cooperative Preschool?
 
