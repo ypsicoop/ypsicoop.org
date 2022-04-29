@@ -4,13 +4,15 @@ layout: page.njk
 
 # Frequently asked questions
 
-<img src="https://cdn.glitch.global/00a4c75e-efc4-4df8-902c-1320d63fb524/ycp-faq.jpg?v=1648690403903" class="page-image" alt="An adult and a student sitting together at a table in the classroom working through an activity in a notebook." />
+<div>
+{% image "./images/ycp-faq.jpeg", "An adult and a student sitting together at a table in the classroom working through an activity in a notebook." %}
+</div>
 
 ## What is a Cooperative Preschool?
 
 A Cooperative Preschool is a preschool where the parents participate fully in their child’s education. Parents are required to assist the teacher in the classroom, take on a job, attend Membership Meetings, and generally take an active role in their child’s preschool experience.
 
-Time and energy are the main ingredients of a successful Co-op. But, the rewards definitely out-way the investments. Co-op parents learn from each other, support each other, and develop close and lasting friendships. And, Co-op students develop a sense of security in knowing that Mommy and Daddy will play active roles in their preschool experience while also developing lasting friendships along the way.
+Time and energy are the main ingredients of a successful Co-op. But, the rewards definitely outweigh the investments. Co-op parents learn from each other, support each other, and develop close and lasting friendships. And, Co-op students develop a sense of security in knowing that their parents will play active roles in their preschool experience while also developing lasting friendships along the way.
 
 ## What are the tuition and fees involved in becoming a member of the preschool?
 
@@ -18,7 +20,14 @@ Another advantage of a Cooperative Preschool is the low tuition and fees as comp
 
 ## What are the parent responsibilities?
 
-Parents will share in the responsibilities to help run the preschool and make it a successful time for their children. You can read more about the parent involvement in the Parents section of our website.
+Parents will share in the responsibilities to help run the preschool and make it a successful time for their children.
+
+Parents are required to:
+
+- Assist in the classroom about 1-2 times a month and bring a snack on their assist day.
+- Attend two cleaning bees or choose an opt-out option.
+- Participate in the fall and spring fundraiser.
+- Take on one year-long school job. Attend one mandatory membership meeting per semester.
 
 ## What are the class schedules for the preschool?
 

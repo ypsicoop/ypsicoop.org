@@ -4,7 +4,9 @@ layout: page.njk
 
 # Tuition
 
-<img src="https://cdn.glitch.global/00a4c75e-efc4-4df8-902c-1320d63fb524/ycp-tuition.jpg?v=1648690072416" alt="A student sitting on the floor sorts through assorted tiles to match them to an print out that outlines those shapes to match." class="page-image">
+<div>
+{% image "./images/ycp-tuition.jpeg", "A student sitting on the floor sorts through assorted tiles to match them to an print out that outlines those shapes to match." %}
+</div>
 
 ## Initial costs
 
