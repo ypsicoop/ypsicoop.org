@@ -12,8 +12,6 @@ async function imageShortcode(src, alt) {
     decoding: "async",
   };
 
-  console.log('Image', alt)
-
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
   return Image.generateHTML(metadata, imageAttributes);
 }
