@@ -37,7 +37,7 @@ Most Co-op preschools offer a two or three day per week school schedule, with cl
 
 Our preschool offers a Montessori-based curriculum. A Montessori curriculum offers your child the opportunity to learn and grow at his/her own pace in an environment meant just for children — otherwise known as a “prepared environment.” In the prepared environment your child will be offered many opportunities to learn using materials designed to teach specific concepts in the areas of practical life, sensorial (sensory), math, language, culture (geography), science, and art.
 
-In addition to the Montessori subject areas listed above, your child will also have the opportunity to practice his/her gross motor skills on the indoor slide and monkey bars, participate in pretend play, use many different types of blocks for building, and participate in a circle time filled with stories, music and movement, calendar, weather, and theme related discussions.
+In addition to the Montessori subject areas listed above, your child will also have the opportunity to practice his/her gross motor skills, participate in pretend play, use many different types of blocks for building, and participate in a circle time filled with stories, music and movement, calendar, weather, and theme related discussions.
 
 The curriculum is typically based on a weekly theme and will include activities to go along with that theme in the following areas:
 
