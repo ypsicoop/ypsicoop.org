@@ -4,7 +4,7 @@ layout: page.njk
 
 # Our teacher, Mieke Giles
 
-<img class="page-image" src="/images/ycp-mieke.jpeg" alt="Ms. Mieke sitting on the ground holding with children gathered around her looking at the book she is holding in the classroom.">
+<img class="page-image" src="/images/ycp-mieke.jpeg" alt="Ms. Mieke smiling at the camera at the end of a sunny day fieldtrip to a dairy farm with her class.">
 
 Mieke has been teaching at the Ypsilanti Cooperative Preschool since 2005 and has been teaching since 2000. In addition to her degrees in early education, she completed her Montessori training in 2012. Ms. Mieke blends her life-long love of learning with her humor, creativity, and compassion to build a unique learning community for students as well as parents.
 
