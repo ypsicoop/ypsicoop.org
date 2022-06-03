@@ -2,7 +2,7 @@
 
 The website for Ypsilanti Cooperative Preschool (YCP) which has been offering a quality preschool program that involves family since 1946.
 
-https://ypsilanti-cooperative-pre.school/
+https://ypsicoop.org/
 
 ## Development
 
