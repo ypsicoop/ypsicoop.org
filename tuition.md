@@ -8,11 +8,11 @@ layout: page.njk
 
 ## Initial costs
 
-To enroll your child, you will have to [submit a registration application form](https://docs.google.com/forms/d/1URoJerAHiThIL6UPoQ-Yc0Cji7HRww0nunxDDx2I3J8/viewform?edit_requested=true) along with a $45 application fee.
+To enroll your child, you will have to [submit a registration application form](https://docs.google.com/forms/d/e/1FAIpQLSd3UY4QbpfFr8MIJOiCHGgTEx_XWHe6q4NNLGxNAuU6Iz3iWA/viewform) along with a $50 application fee.
 
 | Item | Cost |
 | ----------- | ----------- |
-| Enrollment application fee | $45 |
+| Enrollment application fee | $50 |
 | Deposit (refundable fundraising fee) | $100 |
 
 ## Tuition breakdown
