@@ -48,5 +48,3 @@ Write a check and drop it off at our dropbox.
 ## Additional costs to know
 
 The school goes on about 4 fieldtrips per year that are optional and outside of regular class time. There is usually a small fee per child per field trip.
-
-
