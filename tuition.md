@@ -10,7 +10,7 @@ layout: page.njk
 
 To enroll your child, you will have to [submit a registration application form](https://docs.google.com/forms/d/e/1FAIpQLSd3UY4QbpfFr8MIJOiCHGgTEx_XWHe6q4NNLGxNAuU6Iz3iWA/viewform) along with a $50 application fee.
 
-| Item | Cost |
+| Item |  Cost |
 | ----------- | ----------- |
 | Enrollment application fee | $50 |
 | Deposit (refundable fundraising fee) | $100 |
@@ -21,11 +21,11 @@ The YCP has two classes; the “3’s Class” is for children who have turned t
 
 You have the option to pay for either annually, semesterly, or quarterly.
 
-| Option | 3 year-old cost | 4 year-old cost |
+| Option | 3's Class | 4's Class |
 | ----------- | ----------- | --- |
-| Year | $900 | $1,348 |
-| Half | $465 | $690 |
-| Quarter | $232.50 | $345 |
+| Year | $954.00 | $1,428.88 |
+| Half | $492.90 | $731.40 |
+| Quarter | $246.45 | $365.70 |
 
 To keep tuition costs low, it is imperative that every YCP members is involved in the [various responsibilities of running the preschool](/jobs).
 
