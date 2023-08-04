@@ -2,7 +2,7 @@
 layout: page.njk
 ---
 
-# Our teacher, Mieke Giles
+# Our teacher, Mieke Dahlem
 
 <img class="page-image" src="/images/ycp-mieke.jpeg" alt="Ms. Mieke smiling at the camera at the end of a sunny day fieldtrip to a dairy farm with her class.">
 
