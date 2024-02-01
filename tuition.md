@@ -23,9 +23,9 @@ You have the option to pay for either annually, semesterly, or quarterly.
 
 | Option | 3's Class | 4's Class |
 | ----------- | ----------- | --- |
-| Year | $954.00 | $1,428.88 |
-| Half | $492.90 | $731.40 |
-| Quarter | $246.45 | $365.70 |
+| Year | $1105 | $1654 |
+| Half | $552.50 | $826 |
+| Quarter | $276.25 | $413 |
 
 To keep tuition costs low, it is imperative that every YCP members is involved in the [various responsibilities of running the preschool](/jobs).
 
