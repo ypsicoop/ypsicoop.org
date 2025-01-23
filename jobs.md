@@ -38,7 +38,7 @@ They make sure the classroom and its equipment are clean and in good working con
 
 
 ### Fundraising Coordinators (2)
-These people facilitate the fundraisers and make sure that each child meets the $200 requirement. They plan and organize the Silent Auction. With Board approval, the coordinators may choose a second fundraiser, gather all information from company or restaurant, give parents information or supplies needed, choose start and end date, keep record of money. Ideas for fundraisers include having a dinner with a 50/50 raffle, selling candy, cookie dough, pizza kits, poinsettias, perennials, coupon books, etc. Families can opt out of the fundraiser by simply paying the preschool the required $200 per year.
+These people facilitate the fundraisers and make sure that each child meets the $250 requirement. They plan and organize the Silent Auction. With Board approval, the coordinators may choose a second fundraiser, gather all information from company or restaurant, give parents information or supplies needed, choose start and end date, keep record of money. Ideas for fundraisers include having a dinner with a 50/50 raffle, selling candy, cookie dough, pizza kits, poinsettias, perennials, coupon books, etc. Families can opt out of the fundraiser by simply paying the preschool the required amount per year.
 
 ## 3’s/4’s Positions
 There are two members assigned to each of these positions, one for the 3’s class and one for the 4’s
