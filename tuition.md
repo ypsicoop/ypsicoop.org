@@ -8,11 +8,11 @@ layout: page.njk
 
 ## Initial costs
 
-To enroll your child, you will have to [submit a registration application form](https://docs.google.com/forms/d/e/1FAIpQLSd3UY4QbpfFr8MIJOiCHGgTEx_XWHe6q4NNLGxNAuU6Iz3iWA/viewform) along with a $50 application fee.
+To enroll your child, you will have to [submit a registration application form](https://www.jovial.org/ycp/hello) along with a $50 application fee.
 
 | Item |  Cost |
 | ----------- | ----------- |
-| Enrollment application fee | $50 |
+| Enrollment application fee | $75 |
 | Deposit (refundable fundraising fee) | $100 |
 
 ## Tuition breakdown
@@ -23,9 +23,9 @@ You have the option to pay for either annually, semesterly, or quarterly.
 
 | Option | 3's Class | 4's Class |
 | ----------- | ----------- | --- |
-| Year | $1105 | $1654 |
-| Half | $552.50 | $826 |
-| Quarter | $276.25 | $413 |
+| Year | $1155 | $1704 |
+| Half | $577.50 | $852 |
+| Quarter | $288.75 | $426 |
 
 To keep tuition costs low, it is imperative that every YCP members is involved in the [various responsibilities of running the preschool](/jobs).
 
