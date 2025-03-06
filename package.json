@@ -10,6 +10,6 @@
   "author": "Jon Earley <me@yelrae.com>",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^3.0.0"
   }
 }

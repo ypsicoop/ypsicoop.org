@@ -3,3 +3,7 @@ _site
 img
 .cache
 .DS_Store
+.vscode/settings.json
+.gitignore
+package-lock.json
+package.json
